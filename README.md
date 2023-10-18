@@ -1,4 +1,4 @@
-# The core implementation of Deep Scalable Index (DCI) model, a method for fast retrieval on scalable corpora.
+# The core implementation of Scalable Corpus Index (SCI) model, a method for fast retrieval on scalable corpora.
 
 ## data description
  - raw dataset:
