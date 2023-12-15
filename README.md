@@ -1,4 +1,4 @@
-# The core implementation of Scalable Corpus Index (SCI) model, a method for fast retrieval on scalable corpora.
+# The core implementation of ECI (an Efficient Corpus Indexer for dynamic corpora Retrieval).
 
 ## data description
  - raw dataset:
